@@ -69,6 +69,10 @@ The second set of curves shows the power output of both motors, which is the pro
 
 #
 
+![SES](https://github.com/user-attachments/assets/8e4e9be0-841f-46a6-8dba-09a7712f63b5)
+
+#
+
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
