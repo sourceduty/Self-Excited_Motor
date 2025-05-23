@@ -5,52 +5,6 @@ The Self-Excited Stator (SES) motor is an advanced innovation in motor technolog
 
 [Self-Excited Motor](https://chatgpt.com/g/g-68307d7bb86c8191ad2fe62df2d9081a-self-excited-motor) is a custom GPT that assists users research and develop Self-Excited Stator (SES) motor technology. The SES motor integrates an active electromagnetic stator that generates its own electricity to sustain its operation, reducing energy consumption and reliance on external power sources. This feature enhances its energy efficiency, making it suitable for applications in remote or off-grid environments such as disaster-stricken areas, electric vehicles, and robotics. It also offers benefits such as variable-speed control and high power-to-weight ratios, making it ideal for industrial machinery and transportation systems. However, challenges include higher initial costs due to complex electronics and sensors, and potential vulnerabilities in harsh environments that may affect its performance.
 
-<br>
-
-```
-POWER IN (+)                   POWER IN (-)
-_______________            ________________
-              |            |
-              |  --------  |
-              | |        | |
-              | |        | |
-              | |        | |
-              | |        | |
-             _|_|________|_|_
-            |_|_|________|_|_|   COMMUTATOR INTERFACE
-____________|___|________|___|_____________
-|               |        |                |   
-|____________  /__________\  _____________|   
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            || || CORE || ||             |  STATOR ENCLOSURE
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            || ||      || ||             |   
-|            ||_||______||_||   STATOR    |
-|            |__|________|__|   SES       |
-|               |        |                |   
-|_______________|________|________________|   
-|_______________|________|________________|   
-                |        |
-                |________|  SHAFT
-
-Legend:
---------
-
-POWER IN (+)  : Positive electrical power input
-POWER IN (-)  : Negative electrical power input
-COMMUTATOR INTERFACE : Connection point for the commutator to the rotor
-CORE           : The central part of the stator winding
-STATOR ENCLOSURE: Protective casing surrounding the stator windings
-SES MAGNETS    : Self-excited stator magnets that generate field energy
-STATOR         : The part of the motor that creates the magnetic field for operation
-SHAFT          : Rotating part connected to the rotor, delivering mechanical output
-```
-
 #
 
 ![SES](https://github.com/user-attachments/assets/c9b15d61-411e-4543-a2b6-59bf7f0e21dd)
@@ -76,6 +30,10 @@ Self-Excited Stator (SES) technology is a groundbreaking innovation in the realm
 Furthermore, the SES motor's integration of advanced sensors and electronics sets it apart from conventional motors. The motor functions as both an actuator and a position sensor, incorporating Hall effect sensors that allow precise control of the rotor's position with minimal energy consumption. This feature enhances the motor's ability to perform with high precision, making it ideal for applications like robotics, automotive systems, and medical devices that require fine control and reliability. In addition, the SES motor supports variable-speed operation and has a high power-to-weight ratio, making it compact and efficient, with potential applications in electric vehicles and hybrid systems where size and weight are critical factors. The combination of self-sustaining energy generation, integrated sensors, and variable-speed capabilities makes SES technology a significant leap forward in motor efficiency and versatility, addressing both energy consumption and operational performance in ways that traditional motors cannot.
 
 The actual behavior of the SES button would depend on the system it's integrated into, but given the features of the SES motor, there are a few potential actions it could trigger. In an EV or another application, the SES button might be used to enable or activate the motor's self-excitation process. This would mean the motor begins to generate electricity from its own motion, powering the stator and possibly other parts of the system. This could help improve energy efficiency by reducing the need for external power sources.
+
+#
+
+![Self-Excited Stator (SES) Efficiency](https://github.com/user-attachments/assets/52b69ab0-c133-4081-ad16-e0bcd8d5f889)
 
 #
 
