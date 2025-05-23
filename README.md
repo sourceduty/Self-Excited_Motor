@@ -40,3 +40,7 @@ Furthermore, the SES motor's integration of advanced sensors and electronics set
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
+<br>
+[Robotics](https://github.com/sourceduty/Robotics)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
