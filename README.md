@@ -61,6 +61,14 @@ However, while the SES motor presents a leap forward in energy efficiency and su
 
 #
 
+![Torque And Power Curves - SES Motor Vs Traditional](https://github.com/user-attachments/assets/4be96560-54c3-43d4-b544-0fccda4b79c3)
+
+This chart compares the torque and power characteristics of the Self-Excited Stator (SES) motor and traditional electric motors across varying speeds. The first set of curves illustrates the torque performance for both motor types. The SES motor demonstrates a distinct advantage by maintaining a consistent torque output (3 Nm) across the entire speed range, highlighting its efficient energy utilization and robust design. This consistent torque is a hallmark of the SES motor’s innovative self-excited stator, which generates its own energy, reducing reliance on external power sources and contributing to its steady performance. In contrast, the traditional motor experiences a decline in torque as speed increases, a typical behavior in conventional electric motors due to inherent mechanical losses and decreased efficiency at higher speeds. As speed rises, the torque produced by traditional motors is affected by factors such as friction, heat generation, and losses in the system, which results in diminishing performance at higher operational speeds.
+
+The second set of curves shows the power output of both motors, which is the product of torque and speed. The SES motor maintains a relatively stable power output across the speed range, reflecting its self-powered operation and optimized energy conversion. This is particularly evident at lower and mid-speeds, where the motor exhibits a consistent ability to generate power without significant fluctuations. Traditional motors, on the other hand, exhibit a more conventional power curve, where power rises with speed until it reaches a peak, after which the power output starts to plateau or decline. This is indicative of the mechanical and electrical losses that accumulate in traditional motors as they approach higher speeds. In summary, the SES motor offers a significant advantage in energy efficiency, maintaining a steady torque and power output across a wide range of speeds, while traditional motors tend to show performance degradation as speed increases. This makes the SES motor particularly suited for applications that demand high efficiency and stable performance, such as robotics, precision machinery, and electric vehicles.
+
+#
+
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
