@@ -43,3 +43,5 @@ Furthermore, the SES motor's integration of advanced sensors and electronics set
 [Robotics](https://github.com/sourceduty/Robotics)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
