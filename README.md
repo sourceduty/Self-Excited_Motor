@@ -35,6 +35,8 @@ Self-Excited Stator (SES) technology is a groundbreaking innovation in the realm
 Furthermore, the SES motor's integration of advanced sensors and electronics sets it apart from conventional motors. The motor functions as both an actuator and a position sensor, incorporating Hall effect sensors that allow precise control of the rotor's position with minimal energy consumption. This feature enhances the motor's ability to perform with high precision, making it ideal for applications like robotics, automotive systems, and medical devices that require fine control and reliability. In addition, the SES motor supports variable-speed operation and has a high power-to-weight ratio, making it compact and efficient, with potential applications in electric vehicles and hybrid systems where size and weight are critical factors. The combination of self-sustaining energy generation, integrated sensors, and variable-speed capabilities makes SES technology a significant leap forward in motor efficiency and versatility, addressing both energy consumption and operational performance in ways that traditional motors cannot.
 
 #
+![Groundbreaking](https://github.com/user-attachments/assets/b7047b6c-7a87-4509-9a8b-cc363289ac75)
+#
 
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
