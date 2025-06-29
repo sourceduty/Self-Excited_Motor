@@ -58,3 +58,5 @@ Alex: _SES is very innovative and I'm happy that I made this, but it will also t
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
+<br>
+[Linear Induction](https://chatgpt.com/g/g-6860bde96fbc8191a1c226ce1b151b7b-linear-induction)
